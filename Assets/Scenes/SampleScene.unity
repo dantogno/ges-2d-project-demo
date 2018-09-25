@@ -246,7 +246,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7343beac41e25c64a8dfe318af098cde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 1.4587487
   myRigidbody: {fileID: 289613360}
+  size: 5
+  strength: 10
+  height: 0
+  weight: 0
 --- !u!1001 &326229007
 Prefab:
   m_ObjectHideFlags: 0
